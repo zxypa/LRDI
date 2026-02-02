@@ -1,9 +1,4 @@
-# SFIS: Structured Feature Interaction for Lightweight Image Super-Resolution
-
-This repository contains the official PyTorch implementation of **SFIS**, a lightweight and structured feature interaction framework for single image super-resolution.  
-SFIS aims to balance expressive feature interaction modeling, structural consistency, and computational efficiency.
-
----
+# Structured Feature Interaction with Stability Constraints for Image Super-Resolution
 
 ## Environment
 
@@ -75,24 +70,6 @@ The testing results (reconstructed images and PSNR / SSIM values) will be saved 
 
 ---
 
-## Model Zoo
-
-Pre-trained models will be released.
-
----
-
-
-
-## Acknowledgement
-
-This codebase is based on the excellent image restoration framework
-[BasicSR](https://github.com/XPixelGroup/BasicSR).
-
----
-
-## Contact
-
-For questions or suggestions, please open an issue.
 
 ```
 
