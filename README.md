@@ -1,4 +1,4 @@
-# Structured Feature Interaction with Stability Constraints for Image Super-Resolution
+# Structured and Stability-Aware Feature Interaction for Image Super-Resolution
 
 ## Environment
 
